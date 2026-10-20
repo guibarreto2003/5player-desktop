@@ -2,9 +2,11 @@
 
 Este repositório é reservado a instaladores e metadados de atualização do 5player para Windows. Ele não recebe a árvore Git do projeto, histórico de desenvolvimento, dados de usuários ou credenciais.
 
-## Migração em preparação
+## Compatibilidade dos downloads
 
-O novo canal ainda não tem versão publicada. Os aplicativos anteriores continuam usando o canal original até a instalação de uma atualização de transição. Criar este repositório não altera automaticamente os aplicativos instalados.
+O endereço público de compatibilidade é `guibarreto2003/5player-desktop`. Ele é reservado à distribuição, enquanto o repositório completo de desenvolvimento fica separado e privado. O nome anterior do repositório de preparação, `5player-releases`, pode redirecionar para o endereço público de compatibilidade.
+
+As versões históricas mantêm os mesmos números, nomes de arquivos e bytes dos instaladores já distribuídos. Essa separação não lança uma versão nova nem exige que os aplicativos anteriores recebam uma atualização de transição. Consulte as Releases publicadas para obter os instaladores disponíveis.
 
 Somente versões aprovadas para lançamento global devem aparecer em Releases. Builds de **5player dev**, seus feeds privados e suas credenciais não devem ser publicados aqui.
 
